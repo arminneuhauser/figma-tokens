@@ -1,0 +1,138 @@
+{
+    "dark": {
+        "default": {
+            "--theme--base": {
+                "value": "{color.default.gray.900}",
+                "type": "color"
+            },
+            "--theme--on-base": {
+                "value": "{color.default.gray.200}",
+                "type": "color"
+            },
+            "--theme--surface-2dp": {
+                "value": "{color.default.gray.800}",
+                "type": "color"
+            },
+            "--theme--surface-2dp-border": {
+                "value": "{color.default.gray.600}",
+                "type": "color"
+            },
+            "--theme--surface-4dp": {
+                "value": "{color.default.gray.700}",
+                "type": "color"
+            },
+            "--theme--surface-4dp-border": {
+                "value": "{color.default.gray.500}",
+                "type": "color"
+            },
+            "--theme--on-surface": {
+                "value": "{color.default.gray.200}",
+                "type": "color"
+            },
+            "--theme--on-positive": {
+                "value": "{color.default.gray.900}",
+                "type": "color"
+            },
+            "--theme--on-negative": {
+                "value": "{color.default.gray.900}",
+                "type": "color"
+            },
+            "--theme--primary": {
+                "value": "{color.dark.magenta.500}",
+                "type": "color"
+            },
+            "--theme--primary-hover": {
+                "value": "{color.dark.magenta.400}",
+                "type": "color"
+            },
+            "--theme--primary-focus": {
+                "value": "{color.dark.magenta.300}",
+                "type": "color"
+            },
+            "--theme--on-primary": {
+                "value": "{color.default.white}",
+                "type": "color"
+            },
+            "--theme--secondary": {
+                "value": "{color.default.gray.800}",
+                "type": "color"
+            },
+            "--theme--on-secondary": {
+                "value": "{color.default.gray.200}",
+                "type": "color"
+            },
+            "--theme--notice-neutral": {
+                "value": "{color.default.slate.600}",
+                "type": "color"
+            },
+            "--theme--on-notice-neutral": {
+                "value": "{color.default.slate.200}",
+                "type": "color"
+            },
+            "--theme--notice-okay": {
+                "value": "{color.default.emerald.700}",
+                "type": "color"
+            },
+            "--theme--on-notice-okay": {
+                "value": "{color.default.emerald.100}",
+                "type": "color"
+            },
+            "--theme--notice-warning": {
+                "value": "{color.default.yellow.800}",
+                "type": "color"
+            },
+            "--theme--on-notice-warning": {
+                "value": "{color.default.slate.100}",
+                "type": "color"
+            },
+            "--theme--notice-alert": {
+                "value": "{color.default.red.600}",
+                "type": "color"
+            },
+            "--theme--on-notice-alert": {
+                "value": "{color.default.rose.100}",
+                "type": "color"
+            },
+            "--theme--card": {
+                "value": "{color.default.gray.800}",
+                "type": "color"
+            },
+            "--theme--highlight-1": {
+                "value": "{color.default.lightgreen.200}",
+                "type": "color"
+            },
+            "--theme--highlight-2": {
+                "value": "{color.default.violet.200}",
+                "type": "color"
+            },
+            "--theme--highlight-3": {
+                "value": "{color.default.magenta.200}",
+                "type": "color"
+            },
+            "--theme--highlight-4": {
+                "value": "{color.default.blue.200}",
+                "type": "color"
+            },
+            "--theme--on-highlight": {
+                "value": "{color.default.gray.600}",
+                "type": "color"
+            },
+            "--theme--role-me": {
+                "value": "{color.default.blue.600}",
+                "type": "color"
+            },
+            "--theme--role-employee": {
+                "value": "{color.dark.magenta.500}",
+                "type": "color"
+            },
+            "--theme--role-communityguide": {
+                "value": "{color.default.green.600}",
+                "type": "color"
+            },
+            "--theme--role-followee": {
+                "value": "{color.default.sky.600}",
+                "type": "color"
+            }
+        }
+    }
+}
